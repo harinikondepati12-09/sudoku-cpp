@@ -53,9 +53,6 @@ g++ sudoku.cpp -o sudoku
 
 ## Project Description
 This project implements a Sudoku solver using backtracking, a recursive algorithm that tries all possible values for empty cells and backtracks when a conflict occurs.
-
----
-
 The program also generates unique Sudoku puzzles using randomization and allows users to solve them interactively.
 
 ---
