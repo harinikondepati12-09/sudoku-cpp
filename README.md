@@ -1,4 +1,4 @@
-# Sudoku Solver (C++)
+# Sudoku Solver (sudoku-cpp)
 
 A **C++ based Sudoku Solver and Game** that generates puzzles and allows users to solve them through a command-line interface.  
 The system uses **backtracking and recursion** to efficiently solve Sudoku puzzles.
